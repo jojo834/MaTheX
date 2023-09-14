@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide on MaThex</title>
+    <link>http://example.org/fr/docs/guide/</link>
+    <description>Recent content in Guide on MaThex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="http://example.org/fr/docs/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/fr/docs/guide/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/docs/guide/introduction/</guid>
+      <description>This is an introduction.</description>
+    </item>
+    
+    <item>
+      <title>Ressources</title>
+      <link>http://example.org/fr/docs/guide/ressources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/docs/guide/ressources/</guid>
+      <description>Here are the ressources.</description>
+    </item>
+    
+    <item>
+      <title>Create</title>
+      <link>http://example.org/fr/docs/guide/create/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/docs/guide/create/</guid>
+      <description>Here you can create documents.</description>
+    </item>
+    
+    <item>
+      <title>Add</title>
+      <link>http://example.org/fr/docs/guide/add/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/docs/guide/add/</guid>
+      <description>Here you can add documents to MaThex.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/fr/docs/guide/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/docs/guide/hidden/</guid>
+      <description>This page is hidden in menu #  Quondam non pater est dignior ille Eurotas #  Latent te facies #  Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
+ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona #  O fallor in sustinui iussorum equidem.</description>
+    </item>
+    
+  </channel>
+</rss>

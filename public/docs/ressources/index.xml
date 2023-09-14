@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MaThex</title>
+    <link>http://example.org/docs/ressources/</link>
+    <description>Recent content on MaThex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="http://example.org/docs/ressources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chemistry</title>
+      <link>http://example.org/docs/ressources/chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/ressources/chemistry/</guid>
+      <description>ch</description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>http://example.org/docs/ressources/computer-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/ressources/computer-science/</guid>
+      <description>cs</description>
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>http://example.org/docs/ressources/economics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/ressources/economics/</guid>
+      <description>eco</description>
+    </item>
+    
+    <item>
+      <title>Mathematics</title>
+      <link>http://example.org/docs/ressources/mathematics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/ressources/mathematics/</guid>
+      <description>hello</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://example.org/docs/ressources/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/ressources/music/</guid>
+      <description>lalala</description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>http://example.org/docs/ressources/physics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/ressources/physics/</guid>
+      <description>dsjfs</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'MaTheX'
+theme = "hugo-book"
+
+[params]
+BookSection = 'docs'
+
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.fr]
+    contentDir = 'content.fr'
+    disabled = false
+    languageCode = 'fr'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'MaTheX'
+    weight = 1
+  [languages.en]
+    contentDir = 'content.en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'MaTheX'
+    weight = 2
